@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: My blog
 ---
 
+# About me
+Yada yada yada
